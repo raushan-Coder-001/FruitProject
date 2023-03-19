@@ -1,0 +1,15 @@
+{
+  "name": "fruitsproject",
+  "version": "1.0.0",
+  "description": "A fruit rating application using nodejs and mongoDB.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raushan_codes",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.0.1",
+    "mongoose": "^6.9.1"
+  }
+}
